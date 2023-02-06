@@ -32,9 +32,10 @@ Here are some ideas to get you started:
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;"></a></code></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyf-12345678&show_icons=true&hide=stars,prs,issues&count_private=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyf-12345678&hide_title=true&hide_border=true&line_height=21&show_icons=true&hide=prs,issues&count_private=true) <span></span>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyf-12345678&hide=C,html,assembly,CMake&layout=compact)
+
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
